@@ -1,0 +1,4 @@
+name: WhitelistLands
+version: '${project.version}'
+main: xyz.mlserver.whitelistlands.WhitelistLands
+api-version: '1.20'
